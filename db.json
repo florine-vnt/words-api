@@ -2,43 +2,43 @@
   "coiffeurs-10": [
         {
           "id": 1,
-          "nom": "Nefertitif"
+          "nom": "NEFERTITIF"
         },
         {
           "id": 2,
-          "nom": "Luciefhair"
+          "nom": "LUCIEFHAIR"
         },
         {
           "id": 3,
-          "nom": "Imaginhair"
+          "nom": "IMAGINHAIR"
         },
         {
           "id": 4,
-          "nom": "Atmosphair"
+          "nom": "ATMOSPHAIR"
         },
         {
           "id": 5,
-          "nom": "Grammehair"
+          "nom": "GRAMMEHAIR"
         },
         {
           "id": 6,
-          "nom": "Axellehair"
+          "nom": "AXELLEHAIR"
         },
         {
           "id": 7,
-          "nom": "Finisthair"
+          "nom": "FINISTHAIR"
         },
         {
           "id": 8,
-          "nom": "Sagitthair"
+          "nom": "SAGITTHAIR"
         },
         {
           "id": 9,
-          "nom": "Bestclhair"
+          "nom": "BESTCLHAIR"
         },
         {
           "id": 10,
-          "nom": "Planethair"
+          "nom": "PLANETHAIR"
         }
       ],
       "coiffeurs": [
