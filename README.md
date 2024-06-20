@@ -1,3 +1,15 @@
+# API Mo'tif
+
+API utilisé dans le cadre de notre projet 4Play - jeu Mo'tif
+
+## Try it
+
+[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+
+## Use your own data
+
+Fork it and change `db.json` values or create a repo with a `db.json` file.
+
 test-api
 Super minimal setup to serve an api for quick dev purposes using json-server
 Max 5 endpoints, max 30 items per endpoint
